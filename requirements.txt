@@ -5,5 +5,5 @@ Pillow==9.2.0
 plotly==5.9.0
 PyAutoGUI==0.9.54
 streamlit==1.22.0
-streamlit_extras==0.2.7
+streamlit_extras==0.0.1
 streamlit_option_menu==0.3.2
